@@ -71,6 +71,7 @@ PKGS=(
 'breeze-gtk'
 'bridge-utils'
 'btrfs-progs'
+'btop'#
 'celluloid' # video players
 'cmatrix'
 'code' # Visual Studio code
@@ -202,7 +203,7 @@ PKGS=(
 'steam'
 'sudo'
 'swtpm'
-'synergy'
+#'synergy'
 'systemsettings'
 'terminus-font'
 'texinfo'
