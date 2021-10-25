@@ -39,7 +39,7 @@ PKGS=(
 #'nordic-kde-git'
 #'nordic-theme'
 'noto-fonts-emoji'
-#'papirus-icon-theme'
+'papirus-icon-theme'
 'ocs-url' # install packages from websites
 #'sddm-nordic-theme-git'
 'sddm-sugar-candy-git'
