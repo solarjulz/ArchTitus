@@ -30,6 +30,7 @@ PKGS=(
 'dxvk-bin' # DXVK DirectX to Vulcan
 'fluent-icon-theme-git'
 #'github-desktop-bin' # Github Desktop sync
+'kwin-scripts-forceblur'
 'lightly-git'
 'mangohud' # Gaming FPS Counter
 'mangohud-common'
@@ -48,6 +49,7 @@ PKGS=(
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
 'ttf-roboto'
+'yt-dlp'
 #'zoom' # video conferences
 #'snap-pac'
 )
