@@ -17,29 +17,32 @@ git clone "https://aur.archlinux.org/yay.git"
 cd ${HOME}/yay
 makepkg -si --noconfirm
 cd ~
-touch "$HOME/.cache/zshhistory"
-git clone "https://github.com/ChrisTitusTech/zsh"
-git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $HOME/powerlevel10k
-ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
+#touch "$HOME/.cache/zshhistory"
+#git clone "https://github.com/ChrisTitusTech/zsh"
+#git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $HOME/powerlevel10k
+#ln -s "$HOME/zsh/.zshrc" $HOME/.zshrc
 
 PKGS=(
+'arch-kde-theme-git'
 'autojump'
 'awesome-terminal-fonts'
 'brave-bin' # Brave Browser
 'dxvk-bin' # DXVK DirectX to Vulcan
-'github-desktop-bin' # Github Desktop sync
+'fluent-icon-theme-git'
+#'github-desktop-bin' # Github Desktop sync
 'lightly-git'
 'mangohud' # Gaming FPS Counter
 'mangohud-common'
 'nerd-fonts-fira-code'
-'nordic-darker-standard-buttons-theme'
-'nordic-darker-theme'
-'nordic-kde-git'
-'nordic-theme'
+#'nordic-darker-standard-buttons-theme'
+#'nordic-darker-theme'
+#'nordic-kde-git'
+#'nordic-theme'
 'noto-fonts-emoji'
-'papirus-icon-theme'
+#'papirus-icon-theme'
 'ocs-url' # install packages from websites
-'sddm-nordic-theme-git'
+#'sddm-nordic-theme-git'
+'sddm-sugar-candy-git'
 'snapper-gui-git'
 'ttf-droid'
 'ttf-hack'
