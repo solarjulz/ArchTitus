@@ -207,6 +207,7 @@ PKGS=(
 'systemsettings'
 'terminus-font'
 'texinfo'
+'timeshift'
 'traceroute'
 'ufw'
 'unrar'
